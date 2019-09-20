@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/29ac4610496314f22ddfe1d0a465cbaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ed2755a248ce726508d54b983046ad74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/923eaa4f8b96ac837d7dfde72358cd2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66192974efef66209885d1d0632c4784/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bfe5d6ca1ffc2dd62e882654e731b772/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/79477275eb14c0d734b876c7da19b1e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88641a0a7cd16e35d8fb0f99e5368513/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/58e0056d7b329d66dd5ed01b57977610/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c1789b9f515e17e8fd50d28b521c04b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9fbafcbc37f3c715ede73e86c6072c8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cd927b9674d3a0110674f7fc1f995f3f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8610b01f4642b8787e7515745d26f413/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d5ed8d40bd4d072d97868f53264b934/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/be2931bf520f002e10a2fa9d9c5b7ef9/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/933055869e2d3536c4737ee1fb933503/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4d3cb967a9207ea7c6bfadf711a6454f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f10b768c14ddadf7af6a46aa2a2f6a6f/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ff23b41ba9bbb7ac3470b935125b07cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4530e13f41f0c53426fa7dd57e628e60/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d5ed8d40bd4d072d97868f53264b934/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d5ed8d40bd4d072d97868f53264b934/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/be2931bf520f002e10a2fa9d9c5b7ef9/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/be2931bf520f002e10a2fa9d9c5b7ef9/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rn57.MainActivity
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b78b65f8791cb5b1d2843f346e29ba1b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/29ac4610496314f22ddfe1d0a465cbaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/29ac4610496314f22ddfe1d0a465cbaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ed2755a248ce726508d54b983046ad74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ed2755a248ce726508d54b983046ad74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/923eaa4f8b96ac837d7dfde72358cd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/923eaa4f8b96ac837d7dfde72358cd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66192974efef66209885d1d0632c4784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66192974efef66209885d1d0632c4784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bfe5d6ca1ffc2dd62e882654e731b772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bfe5d6ca1ffc2dd62e882654e731b772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/79477275eb14c0d734b876c7da19b1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/79477275eb14c0d734b876c7da19b1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88641a0a7cd16e35d8fb0f99e5368513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88641a0a7cd16e35d8fb0f99e5368513/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/58e0056d7b329d66dd5ed01b57977610/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/58e0056d7b329d66dd5ed01b57977610/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c1789b9f515e17e8fd50d28b521c04b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c1789b9f515e17e8fd50d28b521c04b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9fbafcbc37f3c715ede73e86c6072c8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9fbafcbc37f3c715ede73e86c6072c8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cd927b9674d3a0110674f7fc1f995f3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cd927b9674d3a0110674f7fc1f995f3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8610b01f4642b8787e7515745d26f413/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8610b01f4642b8787e7515745d26f413/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d5ed8d40bd4d072d97868f53264b934/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d5ed8d40bd4d072d97868f53264b934/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/933055869e2d3536c4737ee1fb933503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/933055869e2d3536c4737ee1fb933503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4d3cb967a9207ea7c6bfadf711a6454f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4d3cb967a9207ea7c6bfadf711a6454f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f10b768c14ddadf7af6a46aa2a2f6a6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f10b768c14ddadf7af6a46aa2a2f6a6f/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ff23b41ba9bbb7ac3470b935125b07cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ff23b41ba9bbb7ac3470b935125b07cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4530e13f41f0c53426fa7dd57e628e60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ibrahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4530e13f41f0c53426fa7dd57e628e60/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/ibrahim/Desktop/Project Source Code/IntegratingReactNativeInAndroidApp/Integration/ReactNative/react-native-video-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
